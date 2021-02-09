@@ -12,15 +12,9 @@ https://docs.google.com/document/d/1wc93BhvHGLaoOaXJF7GRMtSFqLSzudBI6vST_CI2M0Q/
 # Psuedo Code
 
 ```C++
-void loop()
-{
-  RunTrack;
-  if FindObj {
-    PickUpObj;
-  }
-}
+
 
 ```
 
 # CAD 
-
+Tracking Robot Onshape Document https://cvilleschools.onshape.com/documents/05edb6bbe957408c2cba31d5/w/5ff28680bd56d700ba3ee2ed/e/ac0d6603a624c149f78b00e1

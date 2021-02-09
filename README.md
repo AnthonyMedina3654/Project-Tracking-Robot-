@@ -17,7 +17,8 @@ void loop()
   RunTrack;
   if FindObj {
     PickUpObj;
-  } 
+  }
+}
 
 ```
 

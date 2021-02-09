@@ -12,7 +12,12 @@ https://docs.google.com/document/d/1wc93BhvHGLaoOaXJF7GRMtSFqLSzudBI6vST_CI2M0Q/
 # Psuedo Code
 
 ```C++
-
+void loop()
+{
+  RunTrack;
+  if FindObj {
+    PickUpObj;
+  } 
 
 ```
 

@@ -12,8 +12,11 @@
 # Psuedo Code
 
 ```C++
-
-
+void loop(){
+  runTrack();
+  if (obj = +){
+    pickupObj();
+  } 
 ```
 
 # CAD 
